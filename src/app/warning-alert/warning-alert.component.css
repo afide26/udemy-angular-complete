@@ -1,0 +1,14 @@
+p {
+  text-transform: capitalize;
+  font-weight:bold;
+  color: #fefefe;
+  background-color: #d42150;
+  padding: 10px;
+}
+
+
+p:nth-child(2){
+  background: #ef86a0;
+  padding-left: 20px;
+  color: #d42150
+}
